@@ -1,0 +1,3 @@
+teamMember1@gmail.com
+teamMember2@gmail.com
+teamMember3@gmail.com
